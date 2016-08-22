@@ -1,0 +1,24 @@
+{
+  "name": "frontend-boiler",
+  "description": "Boilerplate for frontend projects",
+  "main": "app.js",
+  "authors": [
+    "ryan hestin"
+  ],
+  "license": "ISC",
+  "keywords": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "*",
+    "requirejs-plugins": "^1.0.3",
+    "jquery": "^3.1.0",
+    "requirejs": "^2.2.0"
+  }
+}
